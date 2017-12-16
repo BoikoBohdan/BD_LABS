@@ -1,5 +1,5 @@
-# BD_LABS
-[![Build Status](https://travis-ci.org/Igor360/BD_LABS.svg?branch=master)](https://travis-ci.org/Igor360/BD_LABS)
-[![codecov](https://codecov.io/gh/Igor360/BD_LABS/branch/master/graph/badge.svg)](https://codecov.io/gh/Igor360/BD_LABS)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/661807897a5c463090e9a17a5143ea53)](https://www.codacy.com/app/Igor360/BD_LABS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Igor360/BD_LABS&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/661807897a5c463090e9a17a5143ea53)](https://www.codacy.com/app/Igor360/BD_LABS?utm_source=github.com&utm_medium=referral&utm_content=Igor360/BD_LABS&utm_campaign=Badge_Coverage)
+# Lab_4
+[![codecov](https://codecov.io/gh/MaxDmytruk/Lab_4/branch/master/graph/badge.svg)](https://github.com/BoikoBohdan/JAVA)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6af119bc0a884edd82ff7a493fba58bb)](https://github.com/BoikoBohdan/JAVA?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BoikoBohdan/JAVA&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/BoikoBohdan/LAB4.svg?branch=master)](https://travis-ci.org/BoikoBohdan/LAB4)
+[![Code Coverage](https://img.shields.io/codecov/c/github/pvorb/property-providers/develop.svg)](https://codecov.io/github/pvorb/property-providers?branch=develop)
